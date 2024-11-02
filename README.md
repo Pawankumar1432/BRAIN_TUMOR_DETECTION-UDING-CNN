@@ -1,4 +1,5 @@
 Brain Tumor Detection Using CNN
+
 This project implements a Convolutional Neural Network (CNN) to detect brain tumors from MRI images. It is designed to classify images into four categories: No Tumor, Glioma Tumor, Meningioma Tumor, and Pituitary Tumor.
 
 Table of Contents
